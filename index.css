@@ -1,0 +1,27 @@
+.bg-body-tertiary{
+    background-color: #F4F7FA;
+}
+.text{
+    color:#00B157;
+}
+.btn-primary{
+    background-color: #00B157 !important;
+    border:#00B157 1px solid !important;
+}
+.banner-padding{
+    padding: 100px 60px;
+}
+.card-info{
+    max-width:1500px;
+}
+.bg-body-tertiary2{
+    background-color: #223238;
+}
+.email-box{
+    background-color: #4E5B60;
+    border: 1px solid #4E5B60;
+    border-radius: 5px;
+}
+.banner-padding2{
+    padding:60px 20px;
+}
